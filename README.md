@@ -6,3 +6,6 @@ Lesson 1:
 
  Lesson 2:
  - A program to count words, lines or characters in a file
+
+ Lesson 3:
+ - An extremely simple To-Do CLI app
